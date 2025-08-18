@@ -8,3 +8,4 @@ for i in range(24):
     t.right(360/24)
 t.hideturtle()
 t.done()
+# Program 18
