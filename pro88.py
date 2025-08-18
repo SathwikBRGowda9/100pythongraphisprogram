@@ -9,3 +9,4 @@ for r in range(7):
         for _ in range(3):
             t.forward(50); t.right(120)
 t.hideturtle(); t.done()
+# Program 88
