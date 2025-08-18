@@ -10,3 +10,4 @@ for r in range(8):
             t.forward(40); t.right(90)
         t.right(45)
 t.hideturtle(); t.done()
+# Program 82
