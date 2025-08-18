@@ -8,3 +8,4 @@ for i in range(200):
     t.penup(); t.goto(r*math.cos(math.radians(a)), r*math.sin(math.radians(a))); t.pendown()
     t.dot(8)
 t.hideturtle(); t.done()
+# Program 64
