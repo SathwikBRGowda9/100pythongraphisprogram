@@ -8,3 +8,4 @@ for i in range(24):
     t.circle(60, 120)
     t.right(65)
 t.hideturtle(); t.done()
+# Program 95
