@@ -7,3 +7,4 @@ for _ in range(150):
     t.forward(d); t.right(121)
     d += 2
 t.hideturtle(); t.done()
+# Program 43
