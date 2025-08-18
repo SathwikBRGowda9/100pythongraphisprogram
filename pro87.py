@@ -12,3 +12,4 @@ for _ in range(90):
     t.forward(d); t.right(89)
     d += 3
 t.hideturtle(); t.done()
+# Program 87
