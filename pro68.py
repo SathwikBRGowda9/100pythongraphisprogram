@@ -6,3 +6,4 @@ for s in range(40, 160, 20):
     for _ in range(5):
         t.forward(s); t.right(144)
 t.hideturtle(); t.done()
+# Program 68
