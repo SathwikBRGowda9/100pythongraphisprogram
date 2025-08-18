@@ -7,3 +7,4 @@ for i in range(160):
     t.penup(); t.goto(r*math.cos(math.radians(a)), r*math.sin(math.radians(a))); t.pendown()
     t.dot(6)
 t.hideturtle(); t.done()
+# Program 86
