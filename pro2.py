@@ -9,3 +9,4 @@ for i in range(36):
     t.right(10)
 t.hideturtle()
 t.done()
+# Program 2
