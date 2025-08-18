@@ -7,3 +7,4 @@ for i in range(18):
     t.left(160); t.circle(50, 200); t.forward(100); t.right(205)
     t.right(20)
 t.hideturtle(); t.done()
+# Program 89
