@@ -9,3 +9,4 @@ for tt in [i/200 for i in range(0, 2000)]:
     y = B*math.sin(b*tt)
     t.goto(x,y); t.pendown()
 t.hideturtle(); t.done()
+# Program 63
