@@ -7,3 +7,4 @@ t.left(180); t.circle(50,180); t.circle(100,180)
 t.penup(); t.goto(0,100); t.pendown(); t.circle(10)
 t.penup(); t.goto(0,-100); t.pendown(); t.circle(10)
 t.hideturtle(); t.done()
+# Program 32
