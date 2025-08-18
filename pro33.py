@@ -7,3 +7,4 @@ for i in range(60):
     t.right(6)
 t.hideturtle()
 t.done()
+# Program 33
