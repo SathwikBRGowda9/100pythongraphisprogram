@@ -9,3 +9,4 @@ for a in range(361):
     y = 13*math.cos(math.radians(a)) - 5*math.cos(math.radians(2*a)) - 2*math.cos(math.radians(3*a)) - math.cos(math.radians(4*a))
     t.goto(x*10, y*10-120)
 t.hideturtle(); t.done()
+# Program 36
