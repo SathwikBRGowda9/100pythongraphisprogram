@@ -9,3 +9,4 @@ for sides in range(3, 9):
     t.penup(); t.forward(90); t.pendown()
 t.hideturtle()
 t.done()
+# Program 5
