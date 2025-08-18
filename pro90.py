@@ -6,3 +6,4 @@ for i in range(36):
     t.forward(30); t.right(30); t.forward(30); t.left(30)
     t.right(10)
 t.hideturtle(); t.done()
+# Program 90
